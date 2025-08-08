@@ -22,7 +22,7 @@
 
 ```
 ## Libuv event loop workflow
-![Event Loop Diagram](images/loop_iteration.png)
+![Event Loop Diagram](./images/loop_iteration.png)
 
 ## Libuv’s Main Responsibilities
 Event Loop:
